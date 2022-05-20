@@ -1,0 +1,10 @@
+D:\visual проекты\Задача №2\Задача №2\bin\Debug\Задача №2.exe.config
+D:\visual проекты\Задача №2\Задача №2\bin\Debug\Задача №2.exe
+D:\visual проекты\Задача №2\Задача №2\bin\Debug\Задача №2.pdb
+D:\visual проекты\Задача №2\Задача №2\obj\Debug\Задача__2.Form1.resources
+D:\visual проекты\Задача №2\Задача №2\obj\Debug\Задача__2.Properties.Resources.resources
+D:\visual проекты\Задача №2\Задача №2\obj\Debug\Задача №2.csproj.GenerateResource.cache
+D:\visual проекты\Задача №2\Задача №2\obj\Debug\Задача №2.csproj.CoreCompileInputs.cache
+D:\visual проекты\Задача №2\Задача №2\obj\Debug\Задача №2.exe
+D:\visual проекты\Задача №2\Задача №2\obj\Debug\Задача №2.pdb
+D:\visual проекты\Задача №2\Задача №2\obj\Debug\Задача №2.csproj.AssemblyReference.cache
